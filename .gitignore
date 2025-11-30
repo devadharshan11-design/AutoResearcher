@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local data
+data/index/
+data/logs/
+
+# PDFs (optional: remove this if you WANT them in repo)
+data/pdfs/
+
+# Environment / secrets
+.env
+
+# Streamlit cache
+.streamlit/

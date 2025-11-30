@@ -1,0 +1,11 @@
+openai
+tiktoken
+langchain
+langgraph
+sentence-transformers
+chromadb
+pymupdf
+requests
+beautifulsoup4
+streamlit
+python-dotenv
